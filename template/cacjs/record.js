@@ -27,7 +27,7 @@ function checkmoney() {
 	var money, reg;
 	$('#monerr').empty();
 	money = $('#money').val();
-	reg = /^[1-9]+\.?[0-9]{0,2}$/;
+	reg = /^[0-9]+\.?[0-9]{0,2}$/;
 	if (!reg.test(money)) {
 		$('#monerr').append('*wrong fomat');
 	}

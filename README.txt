@@ -20,3 +20,6 @@ For functions:
   	Check overall balance infomation
 	Check detail of an account
 	Send emails or text messages to inform members of balance (is still building)
+
+Version:
+v1.2: revised the cannot accept 0.* cost error.
