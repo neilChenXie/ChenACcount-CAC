@@ -1,0 +1,75 @@
+#signupdiv {
+	text-align:center;
+}
+#signupform {
+	display:inline-block;
+}
+#amountdiv {
+	text-align:center;
+}
+#amounttable {
+	display:inline-block;
+}
+#balancediv {
+	text-align:center;
+}
+#balanceform {
+	display:inline-block;
+}
+#recorddiv {
+	text-align:center;
+}
+#recordtable {
+	display:inline-block;
+}
+#selaccdiv {
+	text-align:center;
+}
+#selacctable {
+	display:inline-block;
+}
+#createsucdiv {
+	text-align:center;
+}
+#createsuctable {
+	display:inline-block;
+}
+#addmemdiv {
+	text-align:center;
+}
+#addmemform {
+	display:inline-block;
+}
+#creatediv {
+	text-align:center;
+}
+#createform {
+	display:inline-block;
+}
+#logindiv {
+	text-align:center;
+}
+#loginform {
+	display:inline-block;
+}
+#account {
+	font-size:1.2em;
+}
+#password {
+	font-size:1.2em;
+}
+.goright {
+	text-align:right;
+}
+.gocenter {
+	text-align:center;
+}
+.goleft {
+	text-align:left;
+	font-size:0.8em;
+}
+.errmsg {
+	text-align:left;
+	color:red;
+	font-size:0.8em;
+}
