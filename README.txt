@@ -22,5 +22,6 @@ For functions:
 	Send emails or text messages to inform members of balance (is still building)
 
 Version:
-v1.2: revised the cannot accept 0.* cost error.
-v1.3: correct the detail member information bug.
+v1.2: fixed the cannot accept 0.* cost bug.
+v1.3: fixed the detail member information bug.
+v1.4: add 'delete bill' function, fixed some timeout bug.
