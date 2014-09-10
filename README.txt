@@ -25,3 +25,4 @@ Version:
 v1.2: fixed the cannot accept 0.* cost bug.
 v1.3: fixed the detail member information bug.
 v1.4: add 'delete bill' function, fixed some timeout bug.
+v1.5: made every user more significant in balance and detail, make all money only show 2 float number.
