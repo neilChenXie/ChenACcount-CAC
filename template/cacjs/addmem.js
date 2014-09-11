@@ -5,6 +5,7 @@ var inpf;
 var selnumf;
 var errmsg;
 function showinp() {
+
 	'use strict';
 	var memnum, i, inptd, inptr, inp, memdiv;
 	$('#memdet').empty();
