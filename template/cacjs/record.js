@@ -25,11 +25,15 @@ function checkpeople() {
 function checkmoney() {
 	'use strict';
 	var money, reg;
+	monf = false;
 	$('#monerr').empty();
 	money = $('#money').val();
 	reg = /^[0-9]+\.?[0-9]{0,2}$/;
 	if (!reg.test(money)) {
+		monf = false;
 		$('#monerr').append('*wrong fomat');
+	} else {
+		monf = true;
 	}
 }
 function checkcate() {
@@ -59,16 +63,7 @@ function finalche() {
 	'use strict';
 	var newcate, money, reg;
 	/*check money fomat*/
-	monf = false;
-	$('#monerr').empty();
-	money = $('#money').val();
-	reg = /^[1-9]+\.?[0-9]{0,2}$/;
-	if (reg.test(money)) {
-		monf = true;
-	} else {
-		monf = false;
-		$('#monerr').append('*wrong fomat');
-	}
+	checkmoney();
 	/*check new cate*/
 	catef = false;
 	$('#cateerr').empty();
