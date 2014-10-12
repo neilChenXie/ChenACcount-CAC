@@ -29,3 +29,4 @@ v1.5: made every user more significant in balance and detail, make all money onl
 v1.6 improved UI of 'add new category' when 'record', and made bill show latest bill first.
 v 1.61 fixed 'balance' float number bug.
 v1.62 fixed some bugs
+v1.7 add delete all function
