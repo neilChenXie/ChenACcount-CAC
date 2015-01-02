@@ -30,3 +30,4 @@ v1.6 improved UI of 'add new category' when 'record', and made bill show latest 
 v 1.61 fixed 'balance' float number bug.
 v1.62 fixed some bugs
 v1.7 add delete all function
+v1.8 refine delete all function
