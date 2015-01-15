@@ -31,3 +31,4 @@ v 1.61 fixed 'balance' float number bug.
 v1.62 fixed some bugs
 v1.7 add delete all function
 v1.8 refine delete all function
+v1.9 auto send email when delete all 
