@@ -5,6 +5,7 @@
 These project is a account system.
 
   *Key words:* **JQueryMobile, HTML, PHP, MySQL**
+ 
 ##Functionality:
 
 * Login&Signup
@@ -35,6 +36,8 @@ These project is a account system.
   Send emails or text messages to inform members of balance (is still building)
 
 ##Version:
+
+* v1.21: fixed the phone number overflow problem
 
 * v1.2: fixed the cannot accept 0.* cost bug.
 
